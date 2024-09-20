@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Portfólio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Oi, eu me chamo Enzo Farinon e sou um programador inciante</h1>
+        <p>Desenvolvedor backend</p>
+    </header>
+    
+    <section id="skills">
+        <h2>Minhas Habilidades</h2>
+        <div class="skill">
+            <img src= "C:\Users\EnzoF\Downloads\icons8-java-logo-48.png" alt="Java" class="skill-logo">
+            <p>Java</p>
+        </div>
+        <div class="skill">
+            <img src="caminho/para/python-logo.png" alt="Python" class="skill-logo">
+            <p>Python</p>
+        </div>
+        <div class="skill">
+            <img src="caminho/para/sql-logo.png" alt="SQL" class="skill-logo">
+            <p>SQL</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>Contato: <a href="mailto:seuemail@example.com">enzufarinon@gmail.com</a></p> 
+        <p>Contato: <a href="mailto:seuemail@example.com">Enzo Farinon</a></p> 
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
